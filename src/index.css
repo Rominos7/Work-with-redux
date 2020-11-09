@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.backgrnON{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #7d7575;
+  height: 100px;
+}
+
+.backgrnOFF{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #bb6c6c;
+  height: 100px;
+}
